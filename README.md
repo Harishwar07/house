@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>House of travel</title>
